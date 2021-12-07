@@ -8,43 +8,43 @@ This example does not include every meta tag available - there are some wild one
 
 ## Social debuggers
 
-Facebook - https://developers.facebook.com/tools/debug/
-LinkedIn - https://www.linkedin.com/post-inspector/
-Twitter - https://cards-dev.twitter.com/validator 
+- Facebook - https://developers.facebook.com/tools/debug/
+- LinkedIn - https://www.linkedin.com/post-inspector/
+- Twitter - https://cards-dev.twitter.com/validator 
 
 ## Tools from the slides
 
-Lighthouse - https://developers.google.com/web/tools/lighthouse 
-Accessibility DOM - Go into Devtools on Chrome, Settings, Experiments, tick the box by ‘Enable full accessibility tree view in the Elements panel’
-Spectrum extension - https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en 
-Web disability simulator extension - https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en 
-WAVE - https://wave.webaim.org/ 
-WebAIM colour contrast checker - https://webaim.org/resources/contrastchecker/ 
+- Lighthouse - https://developers.google.com/web/tools/lighthouse 
+- Accessibility DOM - Go into Devtools on Chrome, Settings, Experiments, tick the box by ‘Enable full accessibility tree view in the Elements panel’
+- Spectrum extension - https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en 
+- Web disability simulator extension - https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=en 
+- WAVE - https://wave.webaim.org/ 
+- WebAIM colour contrast checker - https://webaim.org/resources/contrastchecker/ 
 
 ## References from the information on the slides
 
-https://usability.yale.edu/web-accessibility/articles/readability
-https://css-tricks.com/essential-meta-tags-social-media/ 
-https://axesslab.com/disabled-buttons-suck/
-https://www.youtube.com/watch?v=V1yoOLhx_qA
-https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
-https://web.dev/prefers-reduced-motion/
-https://css-tricks.com/almanac/selectors/a/after-and-before/
-https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
-https://dev.to/stephencweiss/hover-vs-focus-pgg
-https://wunder.io/wunderpedia/accessibility/accessible-uis/hover-focus-active/
-https://medium.com/design-code-repository/a-vs-button-b859547cae4d
-https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc
-https://www.w3.org/TR/wai-aria/#aria-label
-https://a11y-101.com/design/button-vs-link
-https://www.digitala11y.com/links-vs-buttons-a-perennial-problem/
-https://www.youtube.com/watch?v=_GfelgpDLwI
-https://storage.googleapis.com/a11y-io/moving-buttons/html/index.html
-https://uxdesign.cc/is-it-ok-to-grey-out-disabled-buttons-8afa74a0fae
-https://www.deque.com/blog/accessible-aria-buttons/
-https://css-tricks.com/making-disabled-buttons-more-inclusive/
-https://sean-elliott.medium.com/a11y-tips-disabled-buttons-and-colour-contrast-f8824d5e9610  
+- https://usability.yale.edu/web-accessibility/articles/readability
+- https://css-tricks.com/essential-meta-tags-social-media/ 
+- https://axesslab.com/disabled-buttons-suck/
+- https://www.youtube.com/watch?v=V1yoOLhx_qA
+- https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
+- https://web.dev/prefers-reduced-motion/
+- https://css-tricks.com/almanac/selectors/a/after-and-before/
+- https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
+- https://dev.to/stephencweiss/hover-vs-focus-pgg
+- https://wunder.io/wunderpedia/accessibility/accessible-uis/hover-focus-active/
+- https://medium.com/design-code-repository/a-vs-button-b859547cae4d
+- https://medium.com/@zacdicko/size-matters-accessibility-and-touch-targets-56e942adc0cc
+- https://www.w3.org/TR/wai-aria/#aria-label
+- https://a11y-101.com/design/button-vs-link
+- https://www.digitala11y.com/links-vs-buttons-a-perennial-problem/
+- https://www.youtube.com/watch?v=_GfelgpDLwI
+- https://storage.googleapis.com/a11y-io/moving-buttons/html/index.html
+- https://uxdesign.cc/is-it-ok-to-grey-out-disabled-buttons-8afa74a0fae
+- https://www.deque.com/blog/accessible-aria-buttons/
+- https://css-tricks.com/making-disabled-buttons-more-inclusive/
+- https://sean-elliott.medium.com/a11y-tips-disabled-buttons-and-colour-contrast-f8824d5e9610  
 
 I've included a more extensive list of meta tags. While the more important ones are in the index.html file, if you'd like to dive into meta tags more, this list is below. There are also links to further references and resources at the bottom.
 
