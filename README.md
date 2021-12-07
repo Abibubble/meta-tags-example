@@ -6,7 +6,14 @@ This example does not include every meta tag available - there are some wild one
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+## Social debuggers
+
+Facebook - https://developers.facebook.com/tools/debug/
+LinkedIn - https://www.linkedin.com/post-inspector/
+Twitter - https://cards-dev.twitter.com/validator 
+
 ## Tools from the slides
+
 Lighthouse - https://developers.google.com/web/tools/lighthouse 
 Accessibility DOM - Go into Devtools on Chrome, Settings, Experiments, tick the box by ‘Enable full accessibility tree view in the Elements panel’
 Spectrum extension - https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en 
@@ -15,6 +22,7 @@ WAVE - https://wave.webaim.org/
 WebAIM colour contrast checker - https://webaim.org/resources/contrastchecker/ 
 
 ## References from the information on the slides
+
 https://usability.yale.edu/web-accessibility/articles/readability
 https://css-tricks.com/essential-meta-tags-social-media/ 
 https://axesslab.com/disabled-buttons-suck/
